@@ -24,6 +24,7 @@ navbar-links:
   Home: ""
   Experience: "experience"
   Education: "education"
+  Projects: "projects"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"

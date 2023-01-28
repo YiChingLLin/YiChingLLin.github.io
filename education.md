@@ -5,7 +5,7 @@ title: Education
 
 ## National Chengchi University
 ### Master's degree, Management Information Systems
-2021.09 - ing
+###### 2021.09 - ing
 
 - Member of **Software Security Laboratory**
 - Technological series
@@ -15,7 +15,7 @@ title: Education
 
 ## National Chung Cheng University
 ### Bachelor of Arts - BA/ Bachelor of Business Administration - BBA, Labor Relations / Information Management
-2016.09 - 2021.01
+###### 2016.09 - 2021.01
 
 - Member of CCU Student Association Students’ Welfare Department, Equipment team leader of CCU Guitar Club freshman concert, Student Councilor of CCU Student Council, and Student Representative of the Academic Affairs Conference.
 - Student of **Computer Programming Program**
@@ -26,7 +26,7 @@ title: Education
 
 ## SUNY Oneonta
 ### Exchange Student, Computer Science
-2019.01 - 2019.05
+###### 2019.01 - 2019.05
 
 - Sponsored by the Ministry of Education Taiwan **Scholarships for Excellent Students to Study Abroad**
 - CS related course: Fundamentals of Programming, Intro to Web Programming
