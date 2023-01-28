@@ -21,6 +21,8 @@ author: Yi Ching Lin
 
 navbar-links:
   About Me: "aboutme"
+  Experience: ""
+  Education: "education"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
