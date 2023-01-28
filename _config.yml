@@ -20,7 +20,8 @@ author: Yi Ching Lin
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
+  Home: ""
   # Experience: ""
   # Education: "education"
   # Resources:
