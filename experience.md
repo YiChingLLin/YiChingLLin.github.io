@@ -9,7 +9,7 @@ title: Experience
 
 - Teach and provide programming support for **100+ students** (each semester) in Lab class for Homework and Project.
 - Answer the questions for coding and related field concepts.
-- Design and maintain the sample code and slides. Graded homework and exams.
+- Design and maintain the sample code and slides. Grade homework and exams.
 - **Main TA** in [Fall 2022](https://github.com/YiChingLLin/2022DataStructure) and TA in [Fall 2021](https://github.com/lina2360/2021DataStructure).
 
 ---
@@ -18,7 +18,7 @@ title: Experience
 ###### 2021.11 - 2022.08
 
 - Cooperation with Dinkle. Use **AI in product quality prediction**. 
-- Responsible for data preprocessing, training model, analysis result, and using XAI interpreting. [GitHub](https://github.com/YiChingLLin/Dinkle)
+- Responsible for data preprocessing, training model, analysis result, and XAI interpreting. [GitHub](https://github.com/YiChingLLin/Dinkle)
 
 ---
 
@@ -27,10 +27,10 @@ title: Experience
 ###### 2021.03 - 2021.08
 
 - Full-time internship.
-- Tested the product. 
+- Test the product. 
 - Function realization research and analysis.
-- Wrote user manual and technical documents in Chinese and English.
-- Participated in the **design and development** of the internal AD password platform. Responsible for UI design, process planning, and user front-end programming.
+- Write user manual and technical documents in Chinese and English.
+- Participate in the **design and development** of the internal AD password platform. Responsible for UI design, process planning, and user front-end programming.
 
 ---
 
@@ -39,6 +39,6 @@ title: Experience
 ###### 2020.07 - 2020.12
 
 - Familiar with ERP system processing. 
-- Communicated with consultant and designer for requirement confirmation.
-- Completed coding for **80+** ERP customized function cases. More than the company setting personal goals.
-- Handled issues for program efficiency improvement from the customer.
+- Communicate with consultant and designer for requirement confirmation.
+- Complete coding for **80+** ERP customized function cases. More than the company personal goal setting.
+- Handle issues for program efficiency improvement from the customer.
