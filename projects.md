@@ -12,7 +12,7 @@ The course homework implements the ChatBot application. Using the small100 Model
 ### Reasoning Product Quality Prediction 
 ###### [GitHub](https://github.com/YiChingLLin/Dinkle)
 
-This project is NCCU cooperation with Dinkle, which used LSTM and SHAP in product quality prediction. Responsible for reasoning product quality prediction with DeepSHAP.
+This project is NCCU cooperation with Dinkle, which used LSTM and SHAP in product quality immediate prediction.
 
 ### Reservation System 
 ###### [GitHub](https://github.com/YiChingLLin/ReservationSystem)

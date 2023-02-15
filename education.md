@@ -14,7 +14,7 @@ title: Education
 ---
 
 ## National Chung Cheng University
-### B.A. in Labor Relations / B.B.A. in Information Management (Double Major)
+### B.A. in Labor Relations, B.B.A. in Information Management (Double Major)
 ###### 2016.09 - 2021.01 , GPA 4.06/4.30  MIS-related 4.10/4.30
 
 - Student of **Computer Programming Program**
