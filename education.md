@@ -10,7 +10,7 @@ title: Education
 - Member of **Software Security Laboratory**
 - Technological series
 - CS related course
-    Linear Algebra, Discrete Mathematics, Financial Trading Strategy and Big Data Analytics, PyTorch and Machine Learning, Artificial Intelligence and It's Applications, Advanced Information System Development, Advanced Innovative Information Technology ...
+    - Linear Algebra, Discrete Mathematics, Financial Trading Strategy and Big Data Analytics, PyTorch and Machine Learning, Artificial Intelligence and It's Applications, Advanced Information System Development, Advanced Innovative Information Technology ...
 
 ---
 
@@ -21,7 +21,7 @@ title: Education
 - Student of **Computer Programming Program**
 - Sponsored by Ministry of Science and Technology **College Student Research Award** (2019)
 - CS related course
-    Statistics, Program Design, Object-Oriented Technology (I) -JAVA, Database Management, Introduction to Artificial Intelligence, System Analysis & Design, Mobile Device Programming, Introduction to Algorithms, Data Structure, Business Data Communication, Object-Oriented Technology (II)- NET, Operating System, Datamining and Application ...
+    - Statistics, Program Design, Object-Oriented Technology (I) -JAVA, Database Management, Introduction to Artificial Intelligence, System Analysis & Design, Mobile Device Programming, Introduction to Algorithms, Data Structure, Business Data Communication, Object-Oriented Technology (II)- NET, Operating System, Datamining and Application ...
 - Activities and Societies
     - Member of CCU Student Association Students’ Welfare Department
     - Equipment team leader of CCU Guitar Club freshman concert
@@ -36,4 +36,4 @@ title: Education
 
 - Sponsored by the Ministry of Education Taiwan **Scholarships for Excellent Students to Study Abroad**
 - CS related course
-    Fundamentals of Programming, Intro to Web Programming
+    - Fundamentals of Programming, Intro to Web Programming
