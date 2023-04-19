@@ -10,7 +10,7 @@ title: Education
 - Member of **Software Security Laboratory**
 - Technological series
 - Master Thesis: DeepSHAP Summary for Adversarial Example Detection
-    - Accepted by [DeepTest@ICSE 2023](https://conf.researchr.org/home/icse-2023/deeptest-2023?fbclid=IwAR3IUSO5dFzlr-ah5sDclDAJmKQMRN33AfNWhltwflAZSeXxSl7WuNYK6Sw&mibextid=Zxz2cZ#program)
+    - Accepted by **[DeepTest@ICSE 2023](https://conf.researchr.org/home/icse-2023/deeptest-2023?fbclid=IwAR3IUSO5dFzlr-ah5sDclDAJmKQMRN33AfNWhltwflAZSeXxSl7WuNYK6Sw&mibextid=Zxz2cZ#program)**
 - CS related course
     - Linear Algebra, Discrete Mathematics, Financial Trading Strategy and Big Data Analytics, PyTorch and Machine Learning, Artificial Intelligence and It's Applications, Advanced Information System Development, Advanced Innovative Information Technology ...
 
