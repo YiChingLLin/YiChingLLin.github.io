@@ -10,7 +10,7 @@ title: Education
 - Member of **Software Security Laboratory**
 - Technological series
 - Master Thesis: DeepSHAP Summary for Adversarial Example Detection
-    - Code can be available on [GitHub](https://github.com/YiChingLLin/DeepSHAP_summary)    
+    - The code is available on [GitHub](https://github.com/YiChingLLin/DeepSHAP_summary)    
     - Accepted by **[DeepTest@ICSE 2023](https://conf.researchr.org/home/icse-2023/deeptest-2023?fbclid=IwAR3IUSO5dFzlr-ah5sDclDAJmKQMRN33AfNWhltwflAZSeXxSl7WuNYK6Sw&mibextid=Zxz2cZ#program)**
     - Granted by National Science and Technology Council Subsidy for Domestic Graduate Students to Attend International Academic Conferences (Approved by **maximum subsidy**)
 - CS related course
