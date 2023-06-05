@@ -23,7 +23,7 @@ title: Education
 ###### 2016.09 - 2021.01 , GPA 4.06/4.30  MIS-related 4.10/4.30
 
 - Student of **Computer Programming Program**
-- Sponsored by Ministry of Science and Technology **College Student Research Award** (2019)
+- Awarded the Ministry of Science and Technology **College Student Research Grant** (2019) on Design and Develop an APP for Heat Index Warning under High Temperature
 - CS related course
     - Statistics, Program Design, Object-Oriented Technology (I) -JAVA, Database Management, Introduction to Artificial Intelligence, System Analysis & Design, Mobile Device Programming, Introduction to Algorithms, Data Structure, Business Data Communication, Object-Oriented Technology (II)- NET, Operating System, Datamining and Application ...
 - Activities and Societies

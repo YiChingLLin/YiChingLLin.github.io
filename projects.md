@@ -28,4 +28,5 @@ The course final project using Python, Django, and Kubernetes to build a microse
 Team project in university. Responsible for data preprocessing and database management.
 
 ### Design and Develop an APP for Heat Index Warning under High Temperature
-Sponsored by Ministry of Science and Technology College Student Research Award (2019)
+
+Awarded the Ministry of Science and Technology College Student Research Grant (2019)
