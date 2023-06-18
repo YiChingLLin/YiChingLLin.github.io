@@ -5,7 +5,7 @@ title: Education
 
 ## National Chengchi University
 ### Master's degree, Management Information Systems
-###### 2021.09 - 2023.07(expected) 
+###### 2021.09 - 2023.07(expected) , GPA 4.30/4.30
 
 - Member of **Software Security Laboratory**
 - Technological series
@@ -14,7 +14,7 @@ title: Education
     - Accepted by **[DeepTest@ICSE 2023](https://conf.researchr.org/home/icse-2023/deeptest-2023?fbclid=IwAR3IUSO5dFzlr-ah5sDclDAJmKQMRN33AfNWhltwflAZSeXxSl7WuNYK6Sw&mibextid=Zxz2cZ#program)**
     - Granted by National Science and Technology Council Subsidy for Domestic Graduate Students to Attend International Academic Conferences (Approved by **maximum subsidy**)
 - CS related course
-    - Linear Algebra, Discrete Mathematics, Financial Trading Strategy and Big Data Analytics, PyTorch and Machine Learning, Artificial Intelligence and It's Applications, Advanced Information System Development, Advanced Innovative Information Technology ...
+    - Linear Algebra, Discrete Mathematics, Financial Trading Strategy and Big Data Analytics, PyTorch and Machine Learning, Artificial Intelligence and It's Applications, Advanced Information System Development, Advanced Innovative Information Technology, Distributed Systems ...
 
 ---
 
