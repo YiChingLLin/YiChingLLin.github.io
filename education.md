@@ -28,7 +28,7 @@ title: Education
     - Statistics, Program Design, Object-Oriented Technology (I) -JAVA, Database Management, Introduction to Artificial Intelligence, System Analysis & Design, Mobile Device Programming, Introduction to Algorithms, Data Structure, Business Data Communication, Object-Oriented Technology (II)- NET, Operating System, Datamining and Application ...
 - Activities and Societies
     - Member of CCU Student Association Students’ Welfare Department
-    - Equipment team leader of CCU Guitar Club freshman concert
+    - Equipment Team Leader of CCU Guitar Club Freshman Concert
     - Student Councilor of CCU Student Council
     - Student Representative of the Academic Affairs Conference
 
