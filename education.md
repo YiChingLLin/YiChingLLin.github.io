@@ -4,12 +4,12 @@ title: Education
 ---
 
 ## National Chengchi University
-### Master's degree, Management Information Systems
-###### 2021.09 - 2023.07(expected) , GPA 4.30/4.30
+### M.S. in Management Information Systems
+###### 2021.09 - 2023.07 , GPA 4.30/4.30
 
 - Member of **Software Security Laboratory**
 - Technological series
-- Master Thesis: DeepSHAP Summary for Adversarial Example Detection
+- Master Thesis: **DeepSHAP Summary for Adversarial Example Detection**
     - The code is available on [GitHub](https://github.com/YiChingLLin/DeepSHAP_summary)    
     - Accepted by **[DeepTest@ICSE 2023](https://conf.researchr.org/home/icse-2023/deeptest-2023?fbclid=IwAR3IUSO5dFzlr-ah5sDclDAJmKQMRN33AfNWhltwflAZSeXxSl7WuNYK6Sw&mibextid=Zxz2cZ#program)**
     - Granted by National Science and Technology Council Subsidy for Domestic Graduate Students to Attend International Academic Conferences (Approved by **maximum subsidy**)
