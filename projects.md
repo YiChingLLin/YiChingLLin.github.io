@@ -17,7 +17,7 @@ This project is NCCU cooperation with Dinkle, which used LSTM and SHAP in produc
 ### Reservation System 
 ###### [GitHub](https://github.com/YiChingLLin/ReservationSystem)
 
-The course final project using Python, Django, and Kubernetes to build a microservice system.
+The course final project using **Python, Django, and Kubernetes** to build a microservice system.
 
 ---
 

@@ -12,7 +12,7 @@ title: Experience
 - Design and maintain the sample code and slides. Grade homework and exams.
 - **Main TA** in [Fall 2022](https://github.com/YiChingLLin/2022DataStructure) and TA in [Fall 2021](https://github.com/lina2360/2021DataStructure). -->
 
-- Instructed and supported **100+ students** per semester in Lab class, providing programming assistance and guidance for homework and projects.
+- Instructed and supported **100+ students** per semester in Lab class, providing **JAVA** programming assistance and guidance for homework and projects.
 - Designed and maintained sample code and slides, enhancing the learning experience for students.
 - Addressed the questions on coding and related field concepts, ensuring comprehension and understanding.
 - Served as **main TA** in [Fall 2022](https://github.com/YiChingLLin/2022DataStructure) and TA in [Fall 2021](https://github.com/lina2360/2021DataStructure).
@@ -26,7 +26,7 @@ title: Experience
 - Responsible for data preprocessing, training model, analysis result, and XAI interpreting. [GitHub](https://github.com/YiChingLLin/Dinkle) -->
 
 - Conducted **AI-based research** in collaboration with Dinkle to **predict immediate product quality**. 
-- Preprocessed data and trained a machine learning model with Python and PyTorch.
+- Preprocessed data and trained a machine learning model with **Python and PyTorch**.
 - Analyzed results and interpreted model using XAI techniques(SHAP), providing actionable insights to workers.
 - Maintained [GitHub](https://github.com/YiChingLLin/Dinkle) repository for code and data sharing, ensuring code reproducibility and documentation with the team.
 
@@ -46,7 +46,7 @@ title: Experience
 - Tested and evaluated the services of the product.
 - Researched and analyzed the realization of product and service features and functions.
 - Authored user manuals and technical documents in Chinese and English.
-- **Led the design and development** of the internal AD password platform and was responsible for UI design, process planning, and user front-end programming.
+- **Led the design and development** of the internal AD password platform and was responsible for UI design, process planning, and user front-end programming using **React, MySQL, and GitLab**.
 
 ---
 
@@ -60,7 +60,7 @@ title: Experience
 - Handle issues for program efficiency improvement from the customer. -->
 
 - Familiar with ERP system processing.
-- Developed and tested customized ERP functions using Delphi and MS SQL.
+- Developed and tested customized ERP functions using **Delphi and MS SQL**.
 - **Coded and completed 80+** ERP customization cases, **exceeding** the company's personal goal setting.
 - Collaborated with consultants and designers to confirm requirements and ensure accurate implementation of custom functions.
 - Addressed program efficiency issues for customers.
