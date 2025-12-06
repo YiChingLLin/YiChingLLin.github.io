@@ -7,9 +7,9 @@ title: Experience
 ### Software Engineer
 ###### 2023.12 - Present
 
-- Develop and maintain a global Shop Floor Control System used across 10+ sites, improving traceability and efficiency
-- Designed and implemented New Product Introduction workflows to support the new process in the system
-- Troubleshoot and resolve time-critical production issues, minimizing downtime and ensuring continuous operations
+- Develop and maintain a global Shop Floor Control System used across **10+ sites**, improving traceability and efficiency
+- Designed and implemented **New Product Introduction** workflows to support the new process in the system
+- Troubleshoot and resolve **time-critical production issues**, minimizing downtime and ensuring continuous operations
 
 
 ## National Chengchi University
