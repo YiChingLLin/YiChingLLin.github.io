@@ -12,7 +12,7 @@ The course homework implements the ChatBot application. Using the small100 Model
 ### Reasoning Product Quality Prediction 
 ###### [GitHub](https://github.com/YiChingLLin/Dinkle)
 
-This project is NCCU cooperation with Dinkle, which used LSTM and SHAP in product quality immediate prediction.
+This project is NCCU cooperation with Dinkle, which used LSTM and SHAP in real-time product quality prediction.
 
 ### Reservation System 
 ###### [GitHub](https://github.com/YiChingLLin/ReservationSystem)
@@ -27,6 +27,6 @@ The course final project using **Python, Django, and Kubernetes** to build a mic
 
 Team project in university. Responsible for data preprocessing and database management.
 
-### Design and Develop an APP for Heat Index Warning under High Temperature
+### Designing and Developing an App for Heat Index Warning under High Temperature
 
 Awarded the Ministry of Science and Technology College Student Research Grant (2019)
