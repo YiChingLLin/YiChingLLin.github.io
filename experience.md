@@ -5,11 +5,13 @@ title: Experience
 
 ## Pegatron Corporation
 ### Software Engineer
-###### 2023.12 - Present
+###### 2023.12 - 2026.07
 
-- Develop and maintain a global Shop Floor Control System used across **10+ sites**, improving traceability and efficiency
-- Designed and implemented **New Product Introduction** workflows to support the new process in the system
-- Troubleshoot and resolve **time-critical production issues**, minimizing downtime and ensuring continuous operations
+- Maintained a global Shop Floor Control System (Java, Spring, SQL) across **10+ sites**, improving efficiency and traceability
+- Designed and implemented **New Product Introduction (NPI)** workflows to streamline onboarding for new repair lines
+- Audited SQL queries and refactored legacy logic for dynamic, parameter-driven workflows with 100% backward compatibility
+- Engineered backend APIs for **Third-Party Logistics (3PL) integrations**, handling multi-type requests and database transactions
+- Troubleshot and resolved **time-critical production issues**, minimizing system downtime and supporting 24/7 operations
 
 
 ## National Chengchi University

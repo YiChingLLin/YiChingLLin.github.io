@@ -3,6 +3,15 @@ layout: page
 title: Education
 ---
 
+## University of Illinois Urbana-Champaign
+### Master of Computer Science
+###### 2026.08 - 2027.12 (Expected)
+
+- Courses taken
+    - Distributed Systems, Software Engineering I, Database Systems
+
+---
+
 ## National Chengchi University
 ### M.S. in Management Information Systems
 ###### 2021.09 - 2023.07 , GPA 4.30/4.30
