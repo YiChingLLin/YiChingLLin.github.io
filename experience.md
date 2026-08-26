@@ -7,7 +7,7 @@ title: Experience
 ### Software Engineer
 ###### 2023.12 - 2026.07
 
-- Maintained a global Shop Floor Control System (Java, Spring, SQL) across **10+ sites**, improving efficiency and traceability
+- Maintained a global Shop Floor Control System (Java, Spring, Oracle) across **10+ sites**, improving efficiency and traceability
 - Designed and implemented **New Product Introduction (NPI)** workflows to streamline onboarding for new repair lines
 - Audited SQL queries and refactored legacy logic for dynamic, parameter-driven workflows with 100% backward compatibility
 - Engineered backend APIs for **Third-Party Logistics (3PL) integrations**, handling multi-type requests and database transactions
@@ -53,7 +53,7 @@ title: Experience
 ###### 2020.07 - 2020.12
 
 - Familiar with ERP system processing
-- Developed and tested customized ERP functions using **Delphi and SQL Server**
+- Developed and tested customized ERP functions using **Delphi and MS SQL Server**
 - **Coded and completed 80+** ERP customization cases, **exceeding** the company's personal goal setting
 - Collaborated with consultants and designers to confirm requirements and ensure accurate implementation of custom functions
 - Addressed program efficiency issues for customers
