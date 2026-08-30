@@ -7,7 +7,7 @@ title: Experience
 ### Software Engineer
 ###### 2023.12 - 2026.07
 
-- Maintained a global Shop Floor Control System (Java, Spring, Oracle) across **10+ sites**, improving efficiency and traceability
+- Maintained a global Shop Floor Control System (Java, Spring, Oracle) to improve efficiency and traceability across **10+ sites**
 - Designed and implemented **New Product Introduction (NPI)** workflows to streamline onboarding for new repair lines
 - Audited SQL queries and refactored legacy logic for dynamic, parameter-driven workflows with 100% backward compatibility
 - Engineered backend APIs for **Third-Party Logistics (3PL) integrations**, handling multi-type requests and database transactions
