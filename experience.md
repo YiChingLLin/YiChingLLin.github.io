@@ -19,9 +19,9 @@ title: Experience
 ### Data Structure Teaching Assistant
 ###### 2021.09 - 2023.01
 
-- Instructed and supported **100+ students** per semester in Lab class, providing **Java** programming assistance and guidance for homework and projects
-- Designed and maintained sample code and slides, enhancing the learning experience for students
-- Addressed the questions on coding and related field concepts, ensuring comprehension and understanding
+- Instructed **100+ students** per semester in lab classes, providing **Java** programming guidance for homework and projects
+- Designed and maintained sample code and slides to reinforce data structure concepts
+- Mentored students through coding problems and project implementation to ensure conceptual comprehension
 - Served as **lead TA** in [Fall 2022](https://github.com/YiChingLLin/2022DataStructure) and TA in [Fall 2021](https://github.com/lina2360/2021DataStructure)
 
 ---
@@ -52,7 +52,6 @@ title: Experience
 ### Software Engineer Intern
 ###### 2020.07 - 2020.12
 
-- Familiar with ERP system processing
 - Developed and tested customized ERP functions using **Delphi and MS SQL Server**
 - **Coded and completed 80+** ERP customization cases, **exceeding** the company's personal goal setting
 - Collaborated with consultants and designers to confirm requirements and ensure accurate implementation of custom functions
